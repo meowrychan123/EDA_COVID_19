@@ -3,6 +3,7 @@
   This report presents an exploratory data analysis (EDA) of a COVID-19 dataset, encompassing global case counts, deaths, and related statistics. The primary purpose of this analysis is to uncover trends, correlations, and insights to better understand the pandemic's impact worldwide.
   
 **Observations and Analysis**
+
 **Data Overview**
 The dataset includes several important columns, such as Country, Population, Total Cases, Total Deaths, Total Cases per 1M population, Total Deaths per 1M population, Death Percentage, and Continent. Initial data checks revealed that renaming certain columns and removing redundant or irrelevant ones significantly improved clarity.
 
