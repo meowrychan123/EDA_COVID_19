@@ -4,13 +4,12 @@
   
 **Observations and Analysis**
 **Data Overview**
+The dataset includes several important columns, such as Country, Population, Total Cases, Total Deaths, Total Cases per 1M population, Total Deaths per 1M population, Death Percentage, and Continent. Initial data checks revealed that renaming certain columns and removing redundant or irrelevant ones significantly improved clarity.
 
-  The dataset includes several important columns, such as Country, Population, Total Cases, Total Deaths, Total Cases per 1M population, Total Deaths per 1M population, Death Percentage, and Continent. Initial data checks revealed that renaming certain columns and removing redundant or irrelevant ones significantly improved clarity.
 **Data Cleaning**
+Columns such as "Other Names" and "ISO" were removed, as they were not necessary for the analysis. Missing values were assessed and addressed where needed. Additionally, outliers in total case counts were noted, indicating that a few countries had significantly higher case counts than others.
 
-  Columns such as "Other Names" and "ISO" were removed, as they were not necessary for the analysis. Missing values were assessed and addressed where needed. Additionally, outliers in total case counts were noted, indicating that a few countries had significantly higher case counts than others.
 **Key Visualizations**
-
 1. Distribution of Total Cases: This chart illustrated that most countries reported moderate case numbers, while a few exhibited extremely high counts, suggesting potential outliers.
 ![download](https://github.com/user-attachments/assets/30787792-0a26-4986-acb3-ef16fc87ff8a)
 
